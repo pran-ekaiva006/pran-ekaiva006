@@ -1,6 +1,22 @@
-<h1 align="center">Hey there 👋, I'm Pranjal</h1>
-<p align="center">Full-Stack Developer | ECE Student at IIIT Bhopal | DSA & Web Dev Enthusiast</p>
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+my+GitHub!&height=100&section=header)
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Verma!;+ECE+Student+at+IIIT+Bhopal!;+Focused+on+Web+Development+and+DSA!" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <p>
+    🎓 <strong>ECE Undergraduate</strong> at <strong>IIIT Bhopal (2026)</strong><br/>
+    💻 Building scalable full-stack applications and solving real-world problems<br/>
+    🚀 Exploring modern web technologies and practicing problem-solving regularly
+  </p>
+
+  <br/>
+
+  <a href="https://drive.google.com/file/d/1ABCxyz456/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive" alt="Resume Badge"/>
+  </a>
+</div>
 ---
 
 ### 👨‍💻 About Me
