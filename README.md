@@ -4,25 +4,24 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+space+on+GitHub!;+Turning+ideas+into+reality+with+code!" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <p>
-    🎓 <strong>ECE Undergraduate</strong> at <strong>IIIT Bhopal (2026)</strong><br/>
-    💻 Building scalable full-stack applications and solving real-world problems<br/>
-    🚀 Exploring modern web technologies and sharpening DSA every day
-  </p>
+<p align="center">
+  🎓 <strong>ECE Undergraduate</strong> at <strong>IIIT Bhopal (2026)</strong><br>
+  💻 Building scalable full-stack applications and solving real-world problems<br>
+  🚀 Exploring modern web technologies and sharpening DSA every day
+</p>
 
-  <br/>
-
+<p align="center">
   <a href="https://drive.google.com/file/d/10nJMLVd7Wjz4IN4SLNnpDIdXJarJ_5MX/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=google-drive" alt="Resume Badge"/>
+    <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=google-drive" alt="Resume Badge">
   </a>
-</div>
+</p>
+
 ---
 
 <table>
   <tr>
     <td width="60%">
-      
+
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing my **B.Tech in ECE** at **IIIT Bhopal** (Batch of 2026)  
@@ -37,6 +36,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -73,11 +73,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" title="PyTorch"/>
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="50" title="Firebase"/>
 </div>
+
 ---
 
 ### 🌟 Featured Projects
 
-#### 🧩 [Sorting Visualizer](https://github.com/pran-ekaiva006/sorting-project)  
+#### 🤩 [Sorting Visualizer](https://github.com/pran-ekaiva006/sorting-project)  
 Interactive visual tool showcasing Bubble, Merge, Quick, Heap sorts.  
 **Tech Stack:** JavaScript, HTML, CSS
 
