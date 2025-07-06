@@ -1,30 +1,42 @@
-![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+my+GitHub!&height=100&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%2C+I'm+Pranjal+Verma&fontSize=30&fontAlign=50&fontColor=ffffff)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Verma!;+ECE+Student+at+IIIT+Bhopal!;+Focused+on+Web+Development+and+DSA!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+space+on+GitHub!;+Turning+ideas+into+reality+with+code!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <p>
     🎓 <strong>ECE Undergraduate</strong> at <strong>IIIT Bhopal (2026)</strong><br/>
     💻 Building scalable full-stack applications and solving real-world problems<br/>
-    🚀 Exploring modern web technologies and practicing problem-solving regularly
+    🚀 Exploring modern web technologies and sharpening DSA every day
   </p>
 
   <br/>
 
-  <a href="https://drive.google.com/file/d/1ABCxyz456/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive" alt="Resume Badge"/>
+  <a href="https://drive.google.com/file/d/10nJMLVd7Wjz4IN4SLNnpDIdXJarJ_5MX/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=google-drive" alt="Resume Badge"/>
   </a>
 </div>
 ---
 
+<table>
+  <tr>
+    <td width="60%">
+      
 ### 👨‍💻 About Me
-- 🧑‍🎓 IIIT Bhopal | ECE Undergrad  
-- 💻 Passionate about building full-stack web apps & mastering DSA  
-- 🧠 Learning new technologies every day — currently diving into AI-integrated tools  
-- 💬 Ask me about anything in React, Tailwind CSS, Node.js, or C++  
 
+- 🎓 I'm currently pursuing my **B.Tech in ECE** at **IIIT Bhopal** (Batch of 2026)  
+- 💻 I enjoy building clean and efficient **full-stack web applications**  
+- 🧠 I’m constantly upskilling in **Data Structures, Algorithms**, and modern tech stacks  
+- 🤖 Exploring **AI-integrated web tools** and real-world automation projects  
+- 🛠️ Technologies I often work with: `React`, `Tailwind CSS`, `Node.js`, `MongoDB`, and `C++`
+
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ Tech Stack
