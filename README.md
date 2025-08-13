@@ -81,9 +81,10 @@
 
 ### 🌟 Featured Projects
 
-#### 🤩 [Sorting Visualizer](https://github.com/pran-ekaiva006/sorting-project)  
-Interactive visual tool showcasing Bubble, Merge, Quick, Heap sorts.  
-**Tech Stack:** JavaScript, HTML, CSS
+#### 🤩 [AI-Resume-Builder](https://ai-resume-builder-6-o5vo.onrender.com)  
+AI Resume Builder is a web application that generates professional resumes using AI. It allows users to create resumes dynamically with customizable sections like experience, education, skills, and projects.
+
+
 
 #### 🏡 [Real Estate Web App](https://github.com/pran-ekaiva006/real-estate)  
 MERN platform with authentication, listing creation, and responsive UI.  
