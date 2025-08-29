@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%2C+I'm+Pranjal+Verma&fontSize=30&fontAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3b82f6&height=120&section=header&text=Hi%2C+I'm+Pranjal+Verma&fontSize=32&fontAlign=50&fontColor=3db9ff&width=100%&animation=fadeIn)
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+my+GitHub+Universe!;Code.+Create.+Collaborate.;Building+smart+solutions+one+line+at+a+time.;Let’s+turn+ideas+into+impact!" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+my+GitHub+Universe!;Code.+Create.+Collaborate.;Let’s+turn+ideas+into+impact!" 
     alt="Typing SVG" 
   />
 </h1>
