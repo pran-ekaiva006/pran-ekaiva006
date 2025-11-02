@@ -21,6 +21,16 @@
 
 ---
 
+### 🏆 Holopin Badges (Hacktoberfest 2025)
+
+<p align="center">
+  <a href="https://holopin.io/@pranekaiva006">
+    <img src="https://holopin.me/pranekaiva006" alt="Holopin Badge"/>
+  </a>
+</p>
+
+---
+
 <table>
   <tr>
     <td width="60%">
@@ -53,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="50" title="TypeScript"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" title="React"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="50" title="Next.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" title="Bootstrap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Bootstrap_logo.svg" width="50" title="Bootstrap"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" title="Tailwind CSS"/>
   <img src="https://logowik.com/content/uploads/images/figma.jpg" width="50" title="Figma"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" title="Node.js"/>
@@ -67,14 +77,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" title="Git"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="50" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50" title="VS Code"/>
-  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="50" title="Django"/>
-  <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" width="50" title="Seaborn"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="50" title="Jupyter Notebook"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" title="Matlab"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" title="Scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" title="PyTorch"/>
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="50" title="Firebase"/>
 </div>
 
 ---
@@ -82,9 +84,8 @@
 ### 🌟 Featured Projects
 
 #### 🤩 [AI-Resume-Builder](https://ai-resume-builder-6-o5vo.onrender.com)  
-AI Resume Builder is a web application that generates professional resumes using AI. It allows users to create resumes dynamically with customizable sections like experience, education, skills, and projects.
-
-
+AI Resume Builder is a web application that generates professional resumes using AI.  
+**Tech Stack:** React, Node, MongoDB, Express
 
 #### 🏡 [Real Estate Web App](https://github.com/pran-ekaiva006/real-estate)  
 MERN platform with authentication, listing creation, and responsive UI.  
