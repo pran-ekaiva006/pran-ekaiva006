@@ -25,9 +25,10 @@
 
 <p align="center">
   <a href="https://holopin.io/@pranekaiva006">
-    <img src="https://holopin.me/pranekaiva006" alt="Holopin Badge"/>
+    <img src="https://holopin.me/pranekaiva006" alt="Holopin Badges"/>
   </a>
 </p>
+
 
 ---
 
