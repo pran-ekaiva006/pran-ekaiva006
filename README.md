@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/10nJMLVd7Wjz4IN4SLNnpDIdXJarJ_5MX/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1I946AEsRYXEteOoyO7ufew7N4BnVsxGj/view" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=google-drive" alt="Resume Badge">
   </a>
 </p>
