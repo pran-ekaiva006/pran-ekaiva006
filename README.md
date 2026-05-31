@@ -163,8 +163,8 @@
 
 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pran-ekaiva006&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pran-ekaiva006&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pran-ekaiva006&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&cache_seconds=1800&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pran-ekaiva006&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&cache_seconds=1800" height="165"/>
 </div>
 <div align="center">
 <img src="https://github-readme-streak-stats.demolab.com/?user=pran-ekaiva006&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" height="165"/>
@@ -172,6 +172,17 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pran-ekaiva006&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 </div>
+<!--
+  ============================================================
+  IF GITHUB STATS CARDS ARE STILL BROKEN — SELF-DEPLOY IN 2 MIN:
+  1. Go to https://github.com/anuraghazra/github-readme-stats
+  2. Click "Deploy to Vercel" button in the README
+  3. Sign in with GitHub, set env var PAT_1 = your GitHub Personal Access Token
+     (Generate at: GitHub Settings → Developer Settings → Personal Access Tokens → Classic → check "repo" scope)
+  4. After deploy, replace "github-readme-stats.vercel.app" in this README
+     with YOUR own Vercel URL (e.g. github-readme-stats-pran.vercel.app)
+  ============================================================
+-->
 
 🐍 Contribution Snake
 <div align="center">
