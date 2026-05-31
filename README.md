@@ -25,7 +25,7 @@
 </ul>
 </td>
 <td width="45%" align="center" valign="middle">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="coding gif"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260" alt="coding gif"/>
 </td>
 </tr>
 </table>
@@ -43,14 +43,14 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="45" title="CSS"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="45" title="JavaScript"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="45" title="TypeScript"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" title="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" title="React"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="45" title="Next.js"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="45" title="Tailwind CSS"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Bootstrap_logo.svg" width="45" title="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
 <br/><br/>
 <h4>Backend &amp; Database</h4>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="45" title="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" title="Express.js" style="background:white;border-radius:6px;padding:2px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" title="Express.js"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="45" title="MongoDB"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" title="MySQL"/>
 <br/><br/>
@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/C++-80%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/MongoDB-78%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/TypeScript-72%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Next.js-70%25-ffffff?style=for-the-badge&logo=next.js&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Next.js-70%25-58a6ff?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Python-68%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/MySQL-65%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117"/>
 </div>
@@ -128,7 +128,7 @@
   1. Sign up at https://wakatime.com → install the WakaTime extension in VS Code
   2. Go to repo Settings → Secrets → Actions → New secret
      Name: WAKATIME_API_KEY  |  Value: your API key from wakatime.com/settings
-  3. Create file .github/workflows/waka.yml with this content:
+  3. Create file .github/workflows/waka.yml:
 
   name: Waka Readme
   on:
@@ -142,8 +142,6 @@
         - uses: athul/waka-readme@master
           with:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-  Once set up, the stats between the waka tags below will auto-update daily.
 -->
 <div align="center">
 <!--START_SECTION:waka-->
@@ -153,7 +151,7 @@
 <img src="https://img.shields.io/badge/C++-8.33%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Python-5.85%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
 <!--END_SECTION:waka-->
-<sub>⚠️ Showing placeholder stats — set up WakaTime (instructions in comment above) to show your live coding hours</sub>
+<sub>⚠️ Placeholder stats — set up WakaTime (see comment above) to show your live coding hours</sub>
 </div>
 
 🏅 Holopin Badges
