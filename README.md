@@ -2,15 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Pranjal%20Verma&fontSize=42&fontAlign=50&fontColor=58a6ff&width=100%&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20ECE%20%40%20IIIT%20Bhopal&descSize=18&descAlign=50&descAlignY=75&descColor=a0aec0" alt="header"/>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&height=60&color=58a6ff&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;Sharpening+DSA+every+single+day+%F0%9F%A7%A0;Exploring+AI-integrated+web+tools+%F0%9F%A4%96;Open+to+exciting+opportunities+%F0%9F%8C%9F" alt="Typing SVG"/>
 <br/><br/>
-<a href="https://pranjalverma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-58a6ff?style=for-the-badge&labelColor=0d1117"/></a> 
-<a href="https://drive.google.com/file/d/1SybodCS1HUDhYJjfsyj1TjV57IqAyQ8J/view" target="_blank"><img src="https://img.shields.io/badge/📄%20Resume-Download-4CAF50?style=for-the-badge&labelColor=0d1117"/></a> 
-<a href="https://www.linkedin.com/in/pranjal-verma-74954325a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a> 
-<a href="https://leetcode.com/u/shockfurny006/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/></a> 
+<a href="https://pranjalverma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-58a6ff?style=for-the-badge&labelColor=0d1117"/></a> 
+<a href="https://drive.google.com/file/d/1SybodCS1HUDhYJjfsyj1TjV57IqAyQ8J/view" target="_blank"><img src="https://img.shields.io/badge/📄%20Resume-Download-4CAF50?style=for-the-badge&labelColor=0d1117"/></a> 
+<a href="https://www.linkedin.com/in/pranjal-verma-74954325a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a> 
+<a href="https://leetcode.com/u/shockfurny006/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/></a> 
 <a href="mailto:pranjalverma975@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 </div>
 <br/>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 <div align="center">
 <table border="0" cellpadding="10">
 <tr>
@@ -31,12 +31,12 @@
 </table>
 </div>
 
-## 💬 Dev Quote of the Day
+💬 Dev Quote of the Day
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 <div align="center">
 <h4>Frontend</h4>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="45" title="HTML"/>
@@ -53,7 +53,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" title="Express.js"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="45" title="MongoDB"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" title="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 <br/><br/>
 <h4>Languages &amp; Tools</h4>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="45" title="Python"/>
@@ -65,7 +64,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" title="Figma"/>
 </div>
 
-## 📈 Skill Proficiency
+📈 Skill Proficiency
 <div align="center">
 <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/JavaScript-88%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117"/>
@@ -79,7 +78,7 @@
 <img src="https://img.shields.io/badge/MySQL-65%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117"/>
 </div>
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 <div align="center">
 <table border="0" cellpadding="12">
 <tr>
@@ -109,21 +108,21 @@
 </td>
 <td width="33%" valign="top" align="center">
 <h3>✈️ Flight Booking App</h3>
-<p>Real-time seat selection with PostgreSQL row-locking &amp; RLS.</p>
+<p>Search, filter &amp; book flights with real-time seat selection.</p>
 <p>
   <a href="https://flight-management-app-eight.vercel.app/login"><img src="https://img.shields.io/badge/Live-Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
-  <a href="https://github.com/pran-ekaiva006/flight-management-app"><img src="https://img.shields.io/badge/Source-Code-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://github.com/pran-ekaiva006/flight-booking-app"><img src="https://img.shields.io/badge/Source-Code-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 </p>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
 </td>
 </tr>
 </table>
 </div>
 
-## ⏱️ WakaTime Coding Stats
+⏱️ WakaTime Coding Stats
 <!--
   SETUP WAKATIME IN 3 STEPS:
   1. Sign up at https://wakatime.com → install the WakaTime extension in VS Code
@@ -155,16 +154,16 @@
 <sub>⚠️ Placeholder stats — set up WakaTime (see comment above) to show your live coding hours</sub>
 </div>
 
-## 🏅 Holopin Badges
+🏅 Holopin Badges
 <div align="center">
 <a href="https://holopin.io/@pranekaiva006">
 <img src="https://holopin.me/pranekaiva006" alt="Holopin Badges"/>
 </a>
 </div>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pran-ekaiva006&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=false&cache_seconds=1800&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pran-ekaiva006&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&cache_seconds=1800&rank_icon=github" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pran-ekaiva006&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&cache_seconds=1800" height="165"/>
 </div>
 <div align="center">
@@ -185,11 +184,11 @@
   ============================================================
 -->
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 <div align="center">
 <img src="https://raw.githubusercontent.com/pran-ekaiva006/pran-ekaiva006/output/github-contribution-grid-snake-dark.svg" alt="github-snake"/>
 <br/>
-<sub>⚙️ Requires the "Generate Snake" GitHub Action (see .github/workflows/snake.yml) to be run at least once — see repo setup notes</sub>
+<sub>⚙️ Run the <strong>Generate Contribution Snake</strong> GitHub Action to activate this</sub>
 </div>
 
 <div align="center">
@@ -198,3 +197,4 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer"/>
 </div>
+
